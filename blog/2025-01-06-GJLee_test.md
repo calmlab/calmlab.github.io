@@ -1,7 +1,7 @@
 ---
 slug: GJ_Lee_test
 title: "깃블로그 첫 테스트 by 금재"
-authors: [kummacha]
+authors: [geumjaelee]
 tags: [hello]
 ---
 
