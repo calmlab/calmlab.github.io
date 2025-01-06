@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcalmlab_github_io=self.webpackChunkcalmlab_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"CalmLab \ud300 \ube14\ub85c\uadf8 \uc624\ud508!","permalink":"/blog/hello-calmlab","unlisted":false,"date":"2024-12-31T00:00:00.000Z"}]}')}}]);
