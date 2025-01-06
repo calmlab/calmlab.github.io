@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcalmlab_github_io=self.webpackChunkcalmlab_github_io||[]).push([[121],{8070:l=>{l.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/blog/tags/hello","description":"Hello tag description","count":2}]}')}}]);
