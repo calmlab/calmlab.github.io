@@ -1,0 +1,25 @@
+uhmppi1:
+  name: Pyungin Paek
+  title: Representative of Structum
+  url: https://github.com/uhmppi1
+  image_url: https://github.com/uhmppi1.png
+  page: true
+  socials:
+    x: uhmppi1
+    linkedin: uhmppi1
+    github: uhmppi1
+
+geumjaelee:
+  name: Geumjae Lee
+  title: Cheif Researcher of Structum
+  url: https://github.com/geumjaelee
+  image_url: https://github.com/geumjaelee.png
+  page: true
+  # page:
+  #   # customize the url of the author page at /blog/authors/<permalink>
+  #   permalink: '/all-sebastien-lorber-articles'
+  # socials:
+  #   x: sebastienlorber
+  #   linkedin: sebastienlorber
+  #   github: slorber
+  #   newsletter: https://thisweekinreact.com
