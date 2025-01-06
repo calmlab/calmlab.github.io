@@ -1,6 +1,6 @@
 uhmppi1:
   name: Pyungin Paek
-  title: Representative of Structum
+  #title: Representative of Structum
   url: https://github.com/uhmppi1
   image_url: https://github.com/uhmppi1.png
   page: true
@@ -11,7 +11,7 @@ uhmppi1:
 
 geumjaelee:
   name: Geumjae Lee
-  title: Cheif Researcher of Structum
+  #title: Chief Researcher of Structum
   url: https://github.com/geumjaelee
   image_url: https://github.com/geumjaelee.png
   page: true
